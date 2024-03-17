@@ -12,4 +12,4 @@ Wolfram Alpha Letter Award(Given to top 8 teams), Best Sustainability Hack
 
 <a href="https://devpost.com/software/lendit-rmgkul?ref_content=user-portfolio&ref_feature=in_progress" alt="devpost">Devpost Link</a>
 
-![logo](https://github.com/lli555/UMASS-Hackathon-Project-Lendit/issues/1#issue-2190875887)
+![Red White Simple Volunteer Community Logo](https://github.com/lli555/UMASS-Hackathon-Project-Lendit/assets/90268394/aac15ab3-1ce0-4096-adad-5c5a0e5f54c9)
