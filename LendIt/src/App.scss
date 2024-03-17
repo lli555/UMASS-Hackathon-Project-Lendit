@@ -1,0 +1,43 @@
+body {
+  background-color: linear-gradient(to right, #11989e , #38ef7d);
+
+}
+
+.app {
+  background-color: linear-gradient(to right, #11989e , #38ef7d);
+  }
+  
+
+  
+  
+
+  
+  .p-text {
+    font-size: 0.8rem;
+    text-align: left;
+    color: var(--gray-color);
+    line-height: 1.5;
+  
+    @media screen and (min-width: 2000px) {
+      font-size: 1.75rem;
+    }
+  }
+  
+  .bold-text {
+    font-size: 1rem;
+    font-weight: 800;
+    color: var(--black-color);
+    text-align: left;
+  
+    @media screen and (min-width: 2000px) {
+      font-size: 2rem;
+    }
+  
+    @media screen and (max-width: 450px) {
+      font-size: 0.9rem;
+    }
+  }
+  
+  
+  
+  
