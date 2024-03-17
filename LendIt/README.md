@@ -10,5 +10,3 @@ Wolfram Alpha Letter Award(Given to top 8 teams), Best Sustainability Hack
 
 
 <a href="https://devpost.com/software/lendit-rmgkul?ref_content=user-portfolio&ref_feature=in_progress" alt="devpost">Devpost Link</a>
-
-s
